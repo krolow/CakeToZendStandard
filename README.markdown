@@ -8,6 +8,6 @@ If you for example want to keep one standard between your projects PHP for examp
 
 ## How to use?
 
-Make the clone of the project: git clone https://krolow@github.com/krolow/CakeToZendStandard/Zend  into your Console/Templates/ folder.
+Make the clone of the project: git clone git://krolow@github.com/krolow/CakeToZendStandard.git  into your Console/Templates/ folder.
 
-After that when you generate code by zend you will be able to choose the Zend as the code generator.
+After that when you generate code by bake you will be able to choose the CakeToZendStandard as the code generator.
